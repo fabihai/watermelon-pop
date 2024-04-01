@@ -1,7 +1,9 @@
 # Watermelon Pop
 <img src="/pictures/finalenclosure.jpg" width=560px>
+
 ## External Links
 Here you can find a link to the [blog post](https://fabihai.github.io/).
+
 ## Inspiration
 I wanted to make a simple game where the user has to go around obstacles to reach a goal. Here the goal is to achieve as high of a goal as possible. Watermelon are one of my favorite fruits for many reasons so I thought it would be fun to create a game where instead of a person spitting watermelon seeds, it would be the watermelon itself shooting seeds to pop balloons, hence the name "Watermelon Pop".
 
