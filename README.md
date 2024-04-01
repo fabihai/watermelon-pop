@@ -1,5 +1,5 @@
 # Watermelon Pop
-<img src="/pictures/finalenclosure" width=560px>
+<img src="/pictures/finalenclosure.jpg" width=560px>
 ## External Links
 Here you can find a link to the [blog post](https://fabihai.github.io/).
 ## Inspiration
@@ -32,8 +32,8 @@ The game itself is pretty straightforward. The user uses the potentiometer to mo
 ## Enclosure
 I wanted to make this seem like an arcade game so I opted for a shape that looks like a mini arcade machine. In arcades, the machines are usually very colorful and are covered with symbols from the game, which I wanted to reflect in this game. So I filled the space with as many many watermelon colors and symbols in the game that I could.
 
-<img src="/pictures/makingenclosure" width=560px>
+<img src="/pictures/makingenclosure.jpg" width=560px>
 These are all the pieces of the enclosure cut out after being measured.
 
-<img src="/pictures/enclosureglued" width=560px>
+<img src="/pictures/enclosureglued.jpg" width=560px>
 This is the enclosure after all of the pieces were glued together.
